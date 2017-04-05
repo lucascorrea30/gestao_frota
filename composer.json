@@ -1,0 +1,17 @@
+{
+    "name": "vs/gestao_frota",
+    "description": "Sistema Web para Gestao de Frotas - Maquinas",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "twig/twig": "^2.3",
+        "symfony/symfony": "^3.2"
+    },
+    "license": "BSD 2",
+    "authors": [
+        {
+            "name": "Lucas Correa",
+            "email": "lucas.nhl@gmail.com"
+        }
+    ]
+}
